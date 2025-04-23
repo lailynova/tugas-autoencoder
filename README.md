@@ -55,7 +55,7 @@ Selama pelatihan, loss secara bertahap menurun, menunjukkan bahwa model belajar 
 
 ![Contoh Hasil](/auto.png)
 
-*Gambar kiri: Gambar Noisy | Gambar tengah: Gambar Bersih | Gambar kanan: Output Model*
+*Gambar atas: Gambar Noisy | Gambar tengah: Gambar Bersih | Gambar bawah: Output Model*
 
 ## Kesimpulan
 
