@@ -53,7 +53,7 @@ Model dilatih untuk meminimalkan perbedaan antara output dan gambar bersih mengg
 
 Selama pelatihan, loss secara bertahap menurun, menunjukkan bahwa model belajar merekonstruksi gambar dengan lebih akurat. Berikut adalah contoh output dari model setelah pelatihan:
 
-![Contoh Hasil](/output_example.png)
+![Contoh Hasil](/auto.png)
 
 *Gambar kiri: Gambar Noisy | Gambar tengah: Gambar Bersih | Gambar kanan: Output Model*
 
